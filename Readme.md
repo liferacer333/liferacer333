@@ -57,3 +57,7 @@
 <p>
 
 <hr>
+
+## Languages and Tools:
+
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>

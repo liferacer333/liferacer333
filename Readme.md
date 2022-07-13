@@ -61,5 +61,5 @@
 ## Languages and Tools:
 
 <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-   <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+   <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://camo.githubusercontent.com/9f1b0154788ab29da5be6b834d0497e68ab8370fa1aa4f731a82e45fd9c6055d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446a616e676f2d3066353233382e7376673f6c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465"/>
    

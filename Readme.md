@@ -6,7 +6,7 @@
 <img src="https://github.com/liferacer333/liferacer333/blob/main/welcome.gif" alt="Welcome!" width="600"/>
 
 </div>
-<img src="https://github.com/liferacer333/liferacer333/blob/main/intro.gif" alt="Welcome!" width="600"/>
+<img src="https://github.com/liferacer333/liferacer333/blob/main/intro.svg" alt="Welcome!" width="600"/>
 
 <div align="center" width="580">
 

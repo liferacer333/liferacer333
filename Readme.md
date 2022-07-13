@@ -3,6 +3,6 @@
 </div>
 <div align="center" width="580">
 
-<img src="https://github.com/liferacer333/liferacer333/blob/main/welcome.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/liferacer333/liferacer333/blob/main/welcome.gif" alt="Welcome!" width="600"/>
 
 </div>

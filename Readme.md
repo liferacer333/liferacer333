@@ -60,6 +60,6 @@
 
 ## Languages and Tools:
 
-<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>    <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
-   <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/Bash-681c64.svg?logo=gnubash&logoColor=white"/>
+<img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+   <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="Badge" style="float: left; margin-right: 10px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
    

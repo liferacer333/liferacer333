@@ -36,7 +36,7 @@
 
 <hr>
 
-### 🌐  My Online Presence
+### 🟢 Connect with me 🤝
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hemanth-reddy-51b357191/" target="_blank">

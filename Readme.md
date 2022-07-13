@@ -16,3 +16,44 @@
     <a href="https://telegram.me/liferacer_333"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" /></a>
 </div>
 
+<h1 align="center">About</h1>
+
+**I am a Python developer and Cybersecurity Enthusiast based in Hyderabad, India. Pursuing Bachelor of Technology in the stream of Computer Science and Engineering from Scient Institute of Technology. I'm very passionate about improving my coding skills & developing applications & websites. Love to Automate Things 🤖🦾💻**
+
+**I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
+
+**I am passionating about learning Cybersecurity, Back-End technologies, DevOps, Virtualization, and Cloud Computing.**
+
+**Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
+
+* 🔭 **I’m currently working on**: Python & Django, Mysql
+* 🔭 **I’m looking to collaborate on**: Python, Bug Bounty, Cloud Computing.
+* 🌱 **I’m currently learning**: `Cloud Computing` and `Software Engineering`.
+* 💬 **Ask me about**: `.py`, `Cloud`
+* 📫 **How to reach me**: Catch and follow me from the `above links 👆`, in addition to `follow me here`.
+* 🤔 **I’m currently open for**: `Internship Opportunities!!`.
+* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/liferacer333?tab=repositories).
+
+<hr>
+
+### 🌐  My Online Presence
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hemanth-reddy-51b357191/" target="_blank">
+  <img align="center" alt="Hemanth Reddy | Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/liferacer333" target="_blank">
+  <img align="center" alt="liferacer333 | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/liferacer333" target="_blank">
+  <img align="center" alt="liferacer333 | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:hemanth.reddy2547@gmail.com">
+  <img align="center" alt="Hemanth Reddy | Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://hemanthreddy.me/">
+<img align="center" alt="Hemanth Reddy | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> 
+<p>
+
+<hr>

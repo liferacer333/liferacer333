@@ -20,11 +20,11 @@
 
 **I am a Python developer and Cybersecurity Enthusiast based in Hyderabad, India. Pursuing Bachelor of Technology in the stream of Computer Science and Engineering from Scient Institute of Technology.**
 
-**Love to Automate Things 🤖🦾💻**
-
 **I'm very passionate about learning Cybersecurity, Back-End technologies, DevOps, Virtualization, and Cloud Computing.**
 
 **Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
+
+**Love to Automate Things 🤖🦾💻**
 
 * 🔭 **I’m currently working on**: Python & Django, Mysql
 * 🔭 **I’m looking to collaborate on**: Python, Bug Bounty, Cloud Computing.

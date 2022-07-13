@@ -6,3 +6,4 @@
 <img src="https://github.com/liferacer333/liferacer333/blob/main/welcome.gif" alt="Welcome!" width="600"/>
 
 </div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=26F71C&background=252525F1&vCenter=true&lines=Python+Developer;Penetration+Tester;Bug+Bounty+Hunter;Blogger)](https://git.io/typing-svg)

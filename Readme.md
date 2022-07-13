@@ -18,9 +18,9 @@
 
 <h1 align="center">About</h1>
 
-**I am a Python developer and Cybersecurity Enthusiast based in Hyderabad, India. Pursuing Bachelor of Technology in the stream of Computer Science and Engineering from Scient Institute of Technology. I'm very passionate about improving my coding skills & developing applications & websites. Love to Automate Things 🤖🦾💻**
+**I am a Python developer and Cybersecurity Enthusiast based in Hyderabad, India. Pursuing Bachelor of Technology in the stream of Computer Science and Engineering from Scient Institute of Technology. I'm very passionate about improving my coding skills & developing applications & websites.**
 
-**I have powerful computer science knowledge and am eager to learn more concepts and deep dive into computer science tracks. Good in Object-Oriented Programming, Data Structures, Algorithms, Database Systems, Design Patterns, and Problem Solving skills. I practiced competitive programming a lot in college and enjoyed competing with my colleagues and mentors and participating in many programming competitions.**
+**Love to Automate Things 🤖🦾💻**
 
 **I am passionating about learning Cybersecurity, Back-End technologies, DevOps, Virtualization, and Cloud Computing.**
 

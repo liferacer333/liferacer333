@@ -6,7 +6,7 @@
 </div>
 
 <div align="center" width="580">
-    <img src="https://github.com/liferacer333/liferacer333/blob/main/whoami.svg" alt="whoami!" width="400"/>
+    <img src="https://github.com/liferacer333/liferacer333/blob/main/whoami.svg" alt="whoami!" width="500"/>
 </div>
 
 <div align="center">
